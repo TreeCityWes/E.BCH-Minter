@@ -1,0 +1,4 @@
+web3==5.29.0
+python-dotenv==0.20.0
+requests==2.27.1
+colorlog==6.6.0
